@@ -1,1 +1,1 @@
-# site-agrinho
+Este site oferece uma introdução informativa e visualmente atraente sobre as estações do ano e o ciclo de colheita. Você pode expandir o site adicionando mais detalhes, imagens ilustrativas, links para recursos externos ou qualquer outra informação que você ache relevante.
